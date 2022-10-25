@@ -1,5 +1,5 @@
 body {
-    background-color:#D3D3D3;
+    background-color:#ffffff00;
 }
 
 
@@ -10,7 +10,7 @@ nav li {
 
 nav a{
 text-transform: uppercase;
-color: yellow;
+color: rgb(255, 0, 0);
 background-color: #0931d2;
 }
 
